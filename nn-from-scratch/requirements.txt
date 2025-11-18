@@ -1,7 +1,0 @@
-numpy
-matplotlib
-# One of the following data loaders is enough; install either:
-tensorflow
-# or:
-torch
-torchvision
